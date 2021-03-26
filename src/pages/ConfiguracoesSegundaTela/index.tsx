@@ -3,6 +3,10 @@ import React, { useState, useEffect, useLayoutEffect, useRef, useCallback } from
 import Button from '@material-ui/core/Button';
 import useStyles from './styles';
 
+/* 
+* Componente da segunda tela
+*/
+
 const ConfiguracoesSegundaTela = (props:any) => {
     const classes = useStyles();
     
